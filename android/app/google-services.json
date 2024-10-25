@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "91594395694",
+    "project_id": "wordle-dbr",
+    "storage_bucket": "wordle-dbr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91594395694:android:b8a2a55b361a0eb8698fbf",
+        "android_client_info": {
+          "package_name": "com.wordledbr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDulBX59ARswCZxwQhyfPdVyl51hjd-1lo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

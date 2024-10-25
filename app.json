@@ -1,4 +1,7 @@
 {
   "name": "wordledbr",
-  "displayName": "wordledbr"
+  "displayName": "wordledbr",
+  "react-native-google-mobile-ads": {
+    "ios_app_id": "ca-app-pub-9926931663630273~5137776680"
+  }
 }
