@@ -2,6 +2,7 @@
   "name": "wordledbr",
   "displayName": "wordledbr",
   "react-native-google-mobile-ads": {
-    "ios_app_id": "ca-app-pub-9926931663630273~5137776680"
+    "ios_app_id": "ca-app-pub-9926931663630273~5137776680",
+    "android_app_id":"ca-app-pub-9926931663630273~6989080255"
   }
 }
